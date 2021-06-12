@@ -1,3 +1,3 @@
 none
 
-<img src="https://img.shields.io/badge/logoColor=orange/"></a>
+<img src="https://img.shields.io/badge/<LABEL>-<Java>-<orange>>"</a>
