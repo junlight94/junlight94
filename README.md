@@ -1,4 +1,5 @@
 #### Web Developer
+* Inha Technical College(Computer Science)   
 
 #### Career
 * SeedIT(2020.12 ~ 2021.4)   
