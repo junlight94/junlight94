@@ -14,7 +14,7 @@ App Developer
 
 ## Career | 경력
 * SeedIT(2020.12 ~ 2021.4)
-* CodeH(2021.9 ~ ) 
+* CodeF(2021.9 ~ ) 
 
 ## Certificate | 자격증
 * 
