@@ -3,7 +3,7 @@
 
 #### Career
 * SeedIT(2020.12 ~ 2021.4)
-* CodeH(2021.8 ~ )   
+* CodeH(2021.9 ~ )   
 
 #### 🛠Tech Stack🛠
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a>&nbsp;
