@@ -8,7 +8,6 @@ App Developer
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a>&nbsp;
 
 ## Career | 경력
-* SeedIT(2020.12 ~ 2021.4)
 * Helixtech(2021.12 ~ ) 
 
 ## Certificate | 자격증
