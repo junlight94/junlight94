@@ -8,7 +8,7 @@ App Developer
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a>&nbsp;
 
 ## Career | 경력
-* Helixtech(2021.12 ~ ) 
+* Helixtech(2021.12 ~ ) 모바일 솔루션팀(연구원)
 
 ## Certificate | 자격증
 * 
