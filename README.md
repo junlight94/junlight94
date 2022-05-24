@@ -1,5 +1,5 @@
 ## 이준영 | Junyoung Lee
-App Developer
+iOS Developer
 
 ### 🛠Main Stack🛠
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"></a>&nbsp;
