@@ -7,9 +7,6 @@ iOS Developer
 ### 🛠Sub Stack🛠
 <img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>&nbsp;
 
-## Career | 경력
-* Helixtech(2021.12 ~ ) 모바일 솔루션팀 iOS개발(연구원)
-
 ## Certificate | 자격증
 * 
 
