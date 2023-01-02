@@ -11,8 +11,15 @@ iOS Developer
 ### 🛠 Sub Stack 🛠
 <img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>&nbsp;
 
-### 🛠 Used 🛠
+### 🛠 Tool 🛠
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/Zeplin-2560E0?style=flat-square&logo=Azure Pipelines&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"></a>&nbsp;
 
+
+### 🛠 Skill 🛠
+SnapKit, Matis, Kingfisher, Alamofire, Realm, FSCalender, Tuist, NMapsMap, Starscream, NMapsMap
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junlight94)](https://github.com/anuraghazra/github-readme-stats)
