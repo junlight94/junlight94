@@ -19,7 +19,7 @@ iOS Developer
 
 
 ### 🛠 Skill 🛠
-SnapKit, Matis, Kingfisher, Alamofire, Realm, FSCalender, Tuist, NMapsMap, Starscream, NMapsMap
+SnapKit, Matis, Kingfisher, Alamofire, Realm, FSCalender, Tuist, NMapsMap, Starscream, NMapsMap, RxSwift, RxCocoa
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junlight94)](https://github.com/anuraghazra/github-readme-stats)
