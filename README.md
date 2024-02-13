@@ -3,7 +3,7 @@
 ### 👍 Me 👍
 iOS Developer
 
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp;]([https://admitted-rib-001.notion.site/JunYoung-iOS-Developer-c78ec2ffe0154d15a20b5b41d0cb5deb](https://www.notion.so/42403afda9b543b0bdbf97f7aad9dffe?pvs=4))
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp;](https://www.notion.so/42403afda9b543b0bdbf97f7aad9dffe?pvs=4)
 
 ### 🛠 Main Stack 🛠
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"></a>&nbsp;
