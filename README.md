@@ -19,7 +19,7 @@ iOS Developer
 
 
 ### 🛠 Skill 🛠
-Rxswift, Tuist, Fastlane, Swinject, Snanpkit, Alamofire
+Rxswift, Tuist, Fastlane, Swinject, Snanpkit, Alamofire
 
 ### 🛠 Architecture 🛠
 MVVM-C, CleanArchitecture, ModularArchitecture,
