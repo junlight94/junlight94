@@ -22,7 +22,7 @@ iOS Developer
 Rxswift, Tuist, Fastlane, Swinject, Snanpkit, Alamofire
 
 ### 🛠 Architecture 🛠
-MVVM-C, CleanArchitecture, ModularArchitecture,
+MVVM-C, CleanArchitecture, ModularArchitecture
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junlight94)](https://github.com/anuraghazra/github-readme-stats)
