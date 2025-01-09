@@ -27,5 +27,6 @@
 
 <br>
 
-## Recent Posts
+## Blog Posts
 - [GitHub Actions 테스트 자동화, 테스트 코드 작성](https://velog.io/@junlight94/GitHub-Actions-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94%EC%99%80-%EB%A6%AC%ED%8F%AC%ED%8A%B8-%EB%B4%87-%EA%B0%9C%EB%B0%9C)
+- [모듈화 With Tuist](https://velog.io/@junlight94/series/%EB%AA%A8%EB%93%88%ED%99%94-With-Tuist)
