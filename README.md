@@ -3,7 +3,7 @@
 - 동영상 강의 오픈 플랫폼 회사에서 플레이어 및 학습환경 서비스를 개발하고 있습니다.
 - UIKit, SwiftUI를 활용하여 UI 작업을 했습니다.
 - RxSwift, Combine을 활용한 비동기 프로그래밍 경험이 있습니다.
-- MVVM, MVI 아키텍처 적용 및 활용 했습니다.
+- MVVM, MVI 디자인패턴을 적용 및 활용 했습니다.
 - CleanArchitecture 기반으로 Tuist를 활용하여 모듈화 기반 설계를 했습니다.
 - Fastlane + GitHub Actions로 CI/CD 환경을 구축했습니다.
 - GitHub Actions를 활용한 테스트 자동화를 CI 파이프라인에 포함하였습니다.
