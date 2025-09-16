@@ -1,7 +1,5 @@
 ## Work Experience
 
-### iOS Enginner at Paytalab (2025.9 ~ )
-
 ### iOS Enginner at Quriously (2023.3 ~ 2025.8)
 - 동영상 강의 오픈 플랫폼 회사에서 플레이어 및 학습환경 서비스를 개발하고 있습니다.
 - UIKit, SwiftUI를 활용하여 UI 작업을 했습니다.
