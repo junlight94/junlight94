@@ -1,6 +1,6 @@
 ## Work Experience
 
-### iOS Enginner at Paytalab (2023.9 ~ )
+### iOS Enginner at Paytalab (2025.9 ~ 2025.12)
 - 
 
 ### iOS Enginner at Quriously (2023.3 ~ 2025.8)
